@@ -1,0 +1,26 @@
+{
+  "id": "fb0ec2c1-fa67-4ff4-a5ee-66d61536f4d6",
+  "name": "alExtensibleProject",
+  "publisher": "Irina",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://alExtensibleProject.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
